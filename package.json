@@ -1,0 +1,21 @@
+{
+  "name": "us-timezones",
+  "version": "1.0.0",
+  "description": "A JSON file of continental United States timezone codes mapped to UTC offsets.",
+  "keywords": [
+    "United States",
+    "US",
+    "USA",
+    "American",
+    "timezone",
+    "timezones",
+    "UTC",
+    "offset"
+  ],
+  "author": "John Lamansky",
+  "license": "MIT",
+  "homepage": "https://github.com/lamansky/us-timezones",
+  "repository": "lamansky/us-timezones",
+  "main": "index.json",
+  "files": []
+}
